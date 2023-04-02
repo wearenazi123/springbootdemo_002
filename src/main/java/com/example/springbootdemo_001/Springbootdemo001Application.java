@@ -12,7 +12,7 @@ public class Springbootdemo001Application {
         }
         catch(Exception ex){
             ex.printStackTrace();
-            
+
         }
 
     }
